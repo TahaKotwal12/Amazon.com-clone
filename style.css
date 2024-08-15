@@ -18,4 +18,5 @@ a:hover {
   color: #c45500;
   text-align: center;
   background-attachment: fixed;
+  justify-content: center;
 }
