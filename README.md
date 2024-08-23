@@ -1,2 +1,5 @@
-# Amazon.com-clone
-an Amazon clone in plane HTML bootstrap and CSS.
+Amazon clone using
+  HTML
+  Javascript
+  Css
+  
